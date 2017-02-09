@@ -1,0 +1,15 @@
+.menu_left
+{
+    width: 20%;
+    padding:20px 10px;
+    float: left;
+    border: 2px solid black;
+}
+
+.menu_right
+{
+    width: 76%;
+    padding: 0px 10px;
+    float: left;
+    border: 2px solid black;
+}

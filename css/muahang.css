@@ -1,0 +1,57 @@
+.custumer-info{
+	width:600px;
+	margin-left:150px;
+	padding-bottom:20px;
+}
+.custumer-info ul{
+	width:350px;
+}
+.custumer-info ul li{
+	margin-top:10px;
+	width:350px;
+	list-style:none;
+	margin-bottom:5px;
+	height: 30px;
+}
+.required input{
+	width:200px;
+	height:25px;
+	margin-left:20px;
+	float: right;
+	
+}
+.required #save{
+	width:50px;
+	height:25px;
+	margin-left:10px;
+	line-height: 25px
+	
+}
+
+h4{
+	margin-left: 100px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	color: red;
+	font-size: 18px;
+}
+#muahang{
+	width: 700px;
+	margin-left: 40px;
+}
+#submit{
+	padding-left: 300px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+.required .hi{
+	width:200px;
+	height:25px;
+	margin-left:20px;
+	float: right;
+	color: #014C93;
+}
+#select select{
+	margin-left: 80px;
+	margin-right: 10px;
+}
